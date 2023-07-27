@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory: Practical Applications</h1>
-In the previous lab, I installed and configured Active Directory Domain Services on a virtual machine running Windows 2022 (a.k.a. "DC-1"), joined a Windows 10 virtual machine to the domain (a.k.a. "Client-1"), and created 1,000 user accounts using a PowerShell script. In this lab, I'll be going over several Active Directory functions that are commonly used in a workplace environment.<br />
+In the previous lab, I installed and configured Active Directory Domain Services on Windows 2022 virtual machine (a.k.a. "DC-1"), joined a Windows 10 virtual machine to the domain (a.k.a. "Client-1"), and created 1,000 user accounts using a PowerShell script. In this lab, I'll be going over several Active Directory functions that are commonly used in a workplace environment.<br />
 
 <h2>Technologies Used</h2>
 
